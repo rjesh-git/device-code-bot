@@ -4,7 +4,7 @@ This is a demo Bot for Device Code authentication that connects that autenticate
 
 ## More information
 
-For more information see http://www.wictorwilen.se/TODO
+For more information see [Using Device Codes to authenticate Bots with Azure AD](http://www.wictorwilen.se/using-device-codes-to-authenticate-bots-with-azure-ad)
 
 ## Note
 
